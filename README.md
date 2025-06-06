@@ -1,19 +1,17 @@
-# Online Music Store Data Analysis
-  - This SQL project analyzes a fictional online music store database to uncover business insights and support decision-making.
+### Project Title
+SQL Project to analyze Online Music Store data
 
-# Objective
-  - To help the business understand customer behavior, employee performance, genre preferences, and revenue trends using SQL.
+### Description
+- Conducted data analysis on an online music store database to generate business insights and support decision-making.
+- Utilized advanced SQL techniques to analyze datasets including customers, invoices, playlists, tracks, albums, and genres.
+- Derived insights on customer purchase behavior, popular genres, employee sales performance, and playlist engagement trends.
 
-# Dataset Tables Used
-  - Employees
-  - Customers
-  - Invoices
-  - Artists
-  - Albums
-  - Tracks
-  - Genres
-  - Playlists
+### Tools & Techniques
+- :memo: **Microsoft SQL Server**
+- :brain: **SQL Concepts Used**: JOINS, CTE, Window Functions, Aggregate Functions
 
-# Tools & Techniques
-  - **Microsoft SQL Server**
-  - **SQL Concepts Used**: JOINS, CTE, Window Functions, Aggregate Functions
+### Dataset
+:open_file_folder: [music_store_dataset](https://github.com/araza01/online-music-store-sql-analysis/tree/master/Music_Store_Dataset)
+
+### Database Schema Preview
+![image](https://github.com/araza01/online-music-store-sql-analysis/blob/master/Music_Database_Schema.png)
