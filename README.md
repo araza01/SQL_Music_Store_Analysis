@@ -1,5 +1,5 @@
 ### Project Title
-SQL Project to analyze Online Music Store data
+SQL Project to analyze online music store data
 
 ### Description
 - Conducted data analysis on an online music store database to generate business insights and support decision-making.
