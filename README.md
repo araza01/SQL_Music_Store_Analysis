@@ -10,7 +10,7 @@ SQL Project to analyze online music store data
 
 ### SQL Queries & Documentation
 - :page_with_curl: [Music_Store_SQL_Queries](https://github.com/araza01/SQL_Music_Store_Analysis/blob/master/Music_Store_Query.sql) <br>
-- :page_facing_up: Download [Documentation](https://github.com/araza01/SQL_Music_Store_Analysis/blob/master/SQL_Queries_Doc.pdf) file.
+- :page_facing_up: View [Documentation](https://github.com/araza01/SQL_Music_Store_Analysis/blob/master/SQL_Queries_Doc.pdf) file.
 
 ### Tech Stack
 - :memo: **Microsoft SQL Server**
